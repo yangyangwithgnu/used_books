@@ -75,9 +75,89 @@ yangyangwithgnu@yeah.net
 </div></br>
 
 
-
 <div align="center">
 （已售）《汇编语言》》</br>
 <img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/asm/IMG_1030.JPG" alt=""/>
 <img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/asm/IMG_1031.JPG" alt=""/> 
+</div></br>
+
+
+----
+
+<h4 name="1">1 C/C++</h4>
+
+<div align="center">
+《C++ primer 第三版 中文版》</br>
+<img src="" alt=""/>
+<img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/c_n_cpp/IMG_0849.JPG" alt=""/>
+<img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/c_n_cpp/IMG_0850.JPG" alt=""/>
+</div></br>
+
+<div align="center">
+《C++ primer 第三版 中文版 题解》</br>
+<img src="" alt=""/>
+<img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/c_n_cpp/IMG_0851.JPG" alt=""/>
+<img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/c_n_cpp/IMG_0852.JPG" alt=""/>
+</div></br>
+
+<div align="center">
+《最新 C 语言使用绘图程序与图形》》</br>
+<img src="" alt=""/>
+<img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/c_n_cpp/IMG_0863.JPG" alt=""/>
+</div></br>
+
+<div align="center">
+《C++ 编程基础 —— 标准库编程》</br>
+<img src="" alt=""/>
+<img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/c_n_cpp/IMG_0866.JPG" alt=""/>
+<img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/c_n_cpp/IMG_0867.JPG" alt=""/>
+</div></br>
+
+<div align="center">
+《C 语言接口与实现：创建可重用软件的技术》</br>
+<img src="" alt=""/>
+<img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/c_n_cpp/IMG_0868.JPG" alt=""/>
+<img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/c_n_cpp/IMG_0869.JPG" alt=""/>
+</div></br>
+
+<div align="center">
+《C 语言实用软件界面技术》</br>
+<img src="" alt=""/>
+<img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/c_n_cpp/IMG_0874.JPG" alt=""/>
+<img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/c_n_cpp/IMG_0875.JPG" alt=""/>
+</div></br>
+
+<div align="center">
+《C++ 编程 —— 从问题分析到程序设计》</br>
+<img src="" alt=""/>
+<img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/c_n_cpp/IMG_0890.JPG" alt=""/>
+<img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/c_n_cpp/IMG_0891.JPG" alt=""/>
+</div></br>
+
+<div align="center">
+《C 程序设计教程》</br>
+<img src="" alt=""/>
+<img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/c_n_cpp/IMG_0894.JPG" alt=""/>
+<img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/c_n_cpp/IMG_0895.JPG" alt=""/>
+</div></br>
+
+<div align="center">
+《C++ 大学教程（第二版）》</br>
+<img src="" alt=""/>
+<img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/c_n_cpp/IMG_0896.JPG" alt=""/>
+<img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/c_n_cpp/IMG_0897.JPG" alt=""/>
+</div></br>
+
+<div align="center">
+《C++ primer plus （第五版） 中文版》</br>
+<img src="" alt=""/>
+<img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/c_n_cpp/IMG_0898.JPG" alt=""/>
+<img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/c_n_cpp/IMG_0899.JPG" alt=""/>
+</div></br>
+
+<div align="center">
+《visual C++ 程序员实用大全》</br>
+<img src="" alt=""/>
+<img style="display:inline" src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/c_n_cpp/IMG_0910.JPG" alt=""/>
+<img style="display:inline" src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/c_n_cpp/IMG_0911.JPG" alt=""/>
 </div></br>
