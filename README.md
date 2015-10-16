@@ -158,6 +158,97 @@ yangyangwithgnu@yeah.net
 <div align="center">
 《visual C++ 程序员实用大全》</br>
 <img src="" alt=""/>
-<img style="display:inline" src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/c_n_cpp/IMG_0910.JPG" alt=""/>
-<img style="display:inline" src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/c_n_cpp/IMG_0911.JPG" alt=""/>
+<img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/c_n_cpp/IMG_0910.JPG" alt=""/>
+<img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/c_n_cpp/IMG_0911.JPG" alt=""/>
+</div></br>
+
+<div align="center">
+《计算机图形学原理及实践 C 语言描述》</br>
+<img src="" alt=""/>
+<img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/c_n_cpp/IMG_0924.JPG" alt=""/>
+<img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/c_n_cpp/IMG_0925.JPG" alt=""/>
+</div></br>
+
+<div align="center">
+《C 语言软件开发教程》</br>
+<img src="" alt=""/>
+<img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/c_n_cpp/IMG_0926.JPG" alt=""/>
+<img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/c_n_cpp/IMG_0927.JPG" alt=""/>
+</div></br>
+
+<div align="center">
+《C 语言大全（第四版）》</br>
+<img src="" alt=""/>
+<img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/c_n_cpp/IMG_0970.JPG" alt=""/>
+<img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/c_n_cpp/IMG_0971.JPG" alt=""/>
+</div></br>
+
+<div align="center">
+《visual C++ 除错手册》</br>
+<img src="" alt=""/>
+<img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/c_n_cpp/IMG_0937.JPG" alt=""/>
+<img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/c_n_cpp/IMG_0938.JPG" alt=""/>
+</div></br>
+
+<div align="center">
+《C 数值算法（第二版）》</br>
+<img src="" alt=""/>
+<img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/c_n_cpp/IMG_0941.JPG" alt=""/>
+<img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/c_n_cpp/IMG_0942.JPG" alt=""/>
+</div></br>
+
+<div align="center">
+《C 高级实用程序设计》</br>
+<img src="" alt=""/>
+<img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/c_n_cpp/IMG_0957.JPG" alt=""/>
+<img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/c_n_cpp/IMG_0958.JPG" alt=""/>
+</div></br>
+
+<div align="center">
+《C 游戏编程从入门到精通》</br>
+<img src="" alt=""/>
+<img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/c_n_cpp/IMG_0959.JPG" alt=""/>
+<img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/c_n_cpp/IMG_0960.JPG" alt=""/>
+</div></br>
+
+<div align="center">
+（已售）《C 语言解析教程（第四版）》</br>
+<img src="" alt=""/>
+<img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/c_n_cpp/IMG_0966.JPG" alt=""/>
+<img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/c_n_cpp/IMG_0967.JPG" alt=""/>
+</div></br>
+
+<div align="center">
+《全 C 编程》</br>
+<img src="" alt=""/>
+<img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/c_n_cpp/IMG_0990.JPG" alt=""/>
+<img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/c_n_cpp/IMG_0991.JPG" alt=""/>
+</div></br>
+
+<div align="center">
+《标准模板库自修教程与参考手册：STL 进行 C++ 编程 （第二版）》</br>
+<img src="" alt=""/>
+<img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/c_n_cpp/IMG_0994.JPG" alt=""/>
+<img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/c_n_cpp/IMG_0995.JPG" alt=""/>
+</div></br>
+
+<div align="center">
+《高质量程序设计指南 —— C++/C 语言 （第二版）》</br>
+<img src="" alt=""/>
+<img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/c_n_cpp/IMG_1018.JPG" alt=""/>
+<img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/c_n_cpp/IMG_1019.JPG" alt=""/>
+</div></br>
+
+<div align="center">
+《C++ 面向对象程序设计 —— 使用 STL 编程》</br>
+<img src="" alt=""/>
+<img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/c_n_cpp/IMG_1026.JPG" alt=""/>
+<img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/c_n_cpp/IMG_1027.JPG" alt=""/>
+</div></br>
+
+<div align="center">
+《visual C++ 6.0 大制作 经典实例》</br>
+<img src="" alt=""/>
+<img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/c_n_cpp/IMG_1042.JPG" alt=""/>
+<img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/c_n_cpp/IMG_1043.JPG" alt=""/>
 </div></br>
