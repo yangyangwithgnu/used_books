@@ -11,11 +11,11 @@ yangyangwithgnu@yeah.net
 * 成色。大部分 9 成新，小部分 8 成，几本 3 成。
 * 价格。标价四折。**邮费自理**，我在成都，可自取。
 * 联系。yangyangwithgnu@yeah.net 。
-* 支付。当面交易，或者，支付宝 yangyangwithgnu@yeah.net，支付宝二维码 
+* 其他。光盘，是没有嘀 ╮(￣▽￣)╭
+* **支付**。当面交易，或者，支付宝 yangyangwithgnu@yeah.net，支付宝二维码 
 <div align="center">
 <img src="https://raw.githubusercontent.com/yangyangwithgnu/yangyangwithgnu.github.io/master/pics/donate_qr.png" alt=""/><br>
 </div>
-* 其他。光盘，是没有嘀 ╮(￣▽￣)╭
 
 
 ----
