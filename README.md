@@ -33,15 +33,16 @@ yangyangwithgnu@yeah.net
 <h4 name="0">0 汇编</h4>
 
 <div align="center">
-《windows 环境下 32 位汇编语言程序设计》
-<img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/asm/IMG_0876.JPG" alt=""/><br>
-<img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/asm/IMG_0877.JPG" alt=""/><br>
+《windows 环境下 32 位汇编语言程序设计》  
+<img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/asm/IMG_0876.JPG" alt=""/>
+<img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/asm/IMG_0877.JPG" alt=""/>
 </div>
+
 
 <div align="center">
 《windows 环境下汇编语言程序设计》
-<img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/asm/IMG_0914.JPG" alt=""/><br>
-<img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/asm/IMG_0915.JPG" alt=""/><br>
+<img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/asm/IMG_0914.JPG" alt=""/>
+<img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/asm/IMG_0915.JPG" alt=""/>
 </div>
 
 
