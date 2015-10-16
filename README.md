@@ -36,7 +36,7 @@ yangyangwithgnu@yeah.net
 《windows 环境下 32 位汇编语言程序设计》</br>
 <img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/asm/IMG_0876.JPG" alt=""/>
 <img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/asm/IMG_0877.JPG" alt=""/>
-</div>
+</div></br>
 
 <div align="center">
 《windows 环境下汇编语言程序设计》</br>
