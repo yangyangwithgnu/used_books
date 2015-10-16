@@ -42,6 +42,42 @@ yangyangwithgnu@yeah.net
 《windows 环境下汇编语言程序设计》</br>
 <img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/asm/IMG_0914.JPG" alt=""/>
 <img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/asm/IMG_0915.JPG" alt=""/> 
-</div>
+</div></br>
+
+<div align="center">
+《windows 汇编语言及系统程序设计》</br>
+<img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/asm/IMG_0922.JPG" alt=""/>
+<img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/asm/IMG_0923.JPG" alt=""/> 
+</div></br>
+
+<div align="center">
+《80x86 ibm pc 及兼容计算机（卷ⅰ和卷ⅱ）——汇编语言、设计与接口技术（第4版）》</br>
+<img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/asm/IMG_0932.JPG" alt=""/>
+<img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/asm/IMG_0934.JPG" alt=""/> 
+</div></br>
+
+<div align="center">
+《80x86 汇编语言程序设计》</br>
+<img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/asm/IMG_0972.JPG" alt=""/>
+<img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/asm/IMG_0973.JPG" alt=""/> 
+</div></br>
+
+<div align="center">
+《win32 汇编语言程序设计教程》</br>
+<img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/asm/IMG_1016.JPG" alt=""/>
+<img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/asm/IMG_1017.JPG" alt=""/> 
+</div></br>
+
+<div align="center">
+《IBM PC 汇编语言程序设计（第五版）》</br>
+<img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/asm/IMG_1020.JPG" alt=""/>
+<img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/asm/IMG_1021.JPG" alt=""/> 
+</div></br>
 
 
+
+<div align="center">
+（已售）《汇编语言》》</br>
+<img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/asm/IMG_1030.JPG" alt=""/>
+<img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/asm/IMG_1031.JPG" alt=""/> 
+</div></br>
