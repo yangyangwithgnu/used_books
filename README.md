@@ -152,7 +152,7 @@ yangyangwithgnu@yeah.net
 </div></br>
 
 <div align="center">
-《C++ primer plus （第五版） 中文版》</br>
+（已售）《C++ primer plus （第五版） 中文版》</br>
 <img src="" alt=""/>
 <img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/c_n_cpp/IMG_0898.JPG" alt=""/>
 <img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/c_n_cpp/IMG_0899.JPG" alt=""/>
