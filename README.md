@@ -90,6 +90,27 @@ yangyangwithgnu@yeah.net
 <h4 name="1">1 C/C++</h4>
 
 <div align="center">
+《C++ 程序设计语言（特别版）》</br>
+<img src="" alt=""/>
+<img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/c_n_cpp/1131344811.jpg" alt=""/>
+<img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/c_n_cpp/400473681.jpg" alt=""/>
+</div></br>
+
+<div align="center">
+《C++ 程序设计语言（特别版）题解》</br>
+<img src="" alt=""/>
+<img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/c_n_cpp/768609499.jpg" alt=""/>
+<img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/c_n_cpp/1046662421.jpg" alt=""/>
+</div></br>
+
+<div align="center">
+《C++ STL 中文版》</br>
+<img src="" alt=""/>
+<img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/c_n_cpp/898684319.jpg" alt=""/>
+<img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/c_n_cpp/953721518.jpg" alt=""/>
+</div></br>
+
+<div align="center">
 《C++ primer 第三版 中文版》</br>
 <img src="" alt=""/>
 <img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/c_n_cpp/IMG_0849.JPG" alt=""/>
@@ -642,6 +663,12 @@ yangyangwithgnu@yeah.net
 ----
 
 <h4 name="8">8 其他</h4>
+
+<div align="center">
+《大教堂与集市》</br>
+<img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/etc/515987804.jpg" alt=""/>
+<img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/etc/1056977051.jpg" alt=""/>
+</div></br>
 
 <div align="center">
 《PC 技术内幕（第八版）》</br>
