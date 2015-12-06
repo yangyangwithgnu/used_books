@@ -90,6 +90,13 @@ yangyangwithgnu@yeah.net
 <h4 name="1">1 C/C++</h4>
 
 <div align="center">
+《c++ 面向对象高效编程（第二版）》</br>
+<img src="" alt=""/>
+<img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/c_n_cpp/883218854.jpg" alt=""/>
+<img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/c_n_cpp/1360652407.jpg" alt=""/>
+</div></br>
+
+<div align="center">
 《C++ 程序设计语言（特别版）》</br>
 <img src="" alt=""/>
 <img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/c_n_cpp/1131344811.jpg" alt=""/>
