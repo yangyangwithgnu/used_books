@@ -604,7 +604,7 @@ yangyangwithgnu@yeah.net
 <div align="center">
 《visual basic .net 程序设计》</br>
 <img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/dot_net/IMG_0878.JPG" alt=""/>
-<img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/dot_net/IMG_0878.JPG" alt=""/>
+<img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/dot_net/IMG_0879.JPG" alt=""/>
 </div></br>
 
 <div align="center">
