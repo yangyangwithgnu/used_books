@@ -48,7 +48,7 @@ yangyangwithgnu@yeah.net
 </div></br>
 
 <div align="center">
-《windows 汇编语言及系统程序设计》</br>
+（已售）《windows 汇编语言及系统程序设计》</br>
 <img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/asm/IMG_0922.JPG" alt=""/>
 <img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/asm/IMG_0923.JPG" alt=""/> 
 </div></br>
@@ -250,14 +250,14 @@ yangyangwithgnu@yeah.net
 </div></br>
 
 <div align="center">
-《全 C 编程》</br>
+（已售）《全 C 编程》</br>
 <img src="" alt=""/>
 <img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/c_n_cpp/IMG_0990.JPG" alt=""/>
 <img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/c_n_cpp/IMG_0991.JPG" alt=""/>
 </div></br>
 
 <div align="center">
-《标准模板库自修教程与参考手册：STL 进行 C++ 编程 （第二版）》</br>
+（已售）《标准模板库自修教程与参考手册：STL 进行 C++ 编程 （第二版）》</br>
 <img src="" alt=""/>
 <img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/c_n_cpp/IMG_0994.JPG" alt=""/>
 <img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/c_n_cpp/IMG_0995.JPG" alt=""/>
@@ -271,7 +271,7 @@ yangyangwithgnu@yeah.net
 </div></br>
 
 <div align="center">
-《C++ 面向对象程序设计 —— 使用 STL 编程》</br>
+（已售）《C++ 面向对象程序设计 —— 使用 STL 编程》</br>
 <img src="" alt=""/>
 <img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/c_n_cpp/IMG_1026.JPG" alt=""/>
 <img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/c_n_cpp/IMG_1027.JPG" alt=""/>
@@ -323,7 +323,7 @@ yangyangwithgnu@yeah.net
 <h4 name="3">3 逆向工程</h4>
 
 <div align="center">
-《绿盟科技信息安全技术文章》</br>
+（已售）《绿盟科技信息安全技术文章》</br>
 <img src="" alt=""/>
 <img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/reverse_engine/IMG_0905.JPG" alt=""/>
 </div></br>
@@ -343,7 +343,7 @@ yangyangwithgnu@yeah.net
 </div></br>
 
 <div align="center">
-《windows 程序调试》</br>
+（已售）《windows 程序调试》</br>
 <img src="" alt=""/>
 <img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/reverse_engine/IMG_0939.JPG" alt=""/>
 <img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/reverse_engine/IMG_0940.JPG" alt=""/>
@@ -357,7 +357,7 @@ yangyangwithgnu@yeah.net
 </div></br>
 
 <div align="center">
-《cracker 终结者》</br>
+（已售）《cracker 终结者》</br>
 <img src="" alt=""/>
 <img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/reverse_engine/IMG_0949.JPG" alt=""/>
 <img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/reverse_engine/IMG_0950.JPG" alt=""/>
@@ -378,7 +378,7 @@ yangyangwithgnu@yeah.net
 </div></br>
 
 <div align="center">
-《应用程序调试技术》</br>
+（已售）《应用程序调试技术》</br>
 <img src="" alt=""/>
 <img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/reverse_engine/IMG_1024.JPG" alt=""/>
 <img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/reverse_engine/IMG_1025.JPG" alt=""/>
@@ -423,7 +423,7 @@ yangyangwithgnu@yeah.net
 <h4 name="4">5 win32</h4>
 
 <div align="center">
-《win32 开发人员参考库：基础服务、用户接口、图形设备接口、通用控件、shell》</br>
+（已售）《win32 开发人员参考库：基础服务、用户接口、图形设备接口、通用控件、shell》</br>
 <img src="" alt=""/>
 <img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/win32/IMG_0811.JPG" alt=""/>
 <img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/win32/IMG_0845.JPG" alt=""/>
@@ -444,7 +444,7 @@ yangyangwithgnu@yeah.net
 </div></br>
 
 <div align="center">
-《windows 2000 内部揭秘》</br>
+（已售）《windows 2000 内部揭秘》</br>
 <img src="" alt=""/>
 <img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/win32/IMG_0886.JPG" alt=""/>
 <img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/win32/IMG_0887.JPG" alt=""/>
@@ -493,7 +493,7 @@ yangyangwithgnu@yeah.net
 </div></br>
 
 <div align="center">
-《windows 2000 设备驱动程序设计指南》</br>
+（已售）《windows 2000 设备驱动程序设计指南》</br>
 <img src="" alt=""/>
 <img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/win32/IMG_0964.JPG" alt=""/>
 <img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/win32/IMG_0965.JPG" alt=""/>
@@ -720,7 +720,7 @@ yangyangwithgnu@yeah.net
 </div></br>
 
 <div align="center">
-《硬盘保护技术手册》</br>
+（已售）《硬盘保护技术手册》</br>
 <img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/etc/IMG_0916.JPG" alt=""/>
 <img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/etc/IMG_0917.JPG" alt=""/>
 </div></br>
