@@ -222,7 +222,7 @@ yangyangwithgnu@yeah.net
 </div></br>
 
 <div align="center">
-《C 数值算法（第二版）》</br>
+（已售）《C 数值算法（第二版）》</br>
 <img src="" alt=""/>
 <img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/c_n_cpp/IMG_0941.JPG" alt=""/>
 <img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/c_n_cpp/IMG_0942.JPG" alt=""/>
@@ -458,7 +458,7 @@ yangyangwithgnu@yeah.net
 </div></br>
 
 <div align="center">
-《windows API 函数参考手册》</br>
+（已售）《windows API 函数参考手册》</br>
 <img src="" alt=""/>
 <img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/win32/IMG_0892.JPG" alt=""/>
 <img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/win32/IMG_0893.JPG" alt=""/>
