@@ -104,7 +104,7 @@ yangyangwithgnu@yeah.net
 </div></br>
 
 <div align="center">
-《C++ STL 中文版》</br>
+（已售）《C++ STL 中文版》</br>
 <img src="" alt=""/>
 <img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/c_n_cpp/898684319.jpg" alt=""/>
 <img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/c_n_cpp/953721518.jpg" alt=""/>
