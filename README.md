@@ -12,9 +12,10 @@ yangyangwithgnu@yeah.net
 * 价格。标价四折。**邮费自理**，我在成都，可自取。
 * 联系。yangyangwithgnu@yeah.net 。
 * 其他。光盘，是没有嘀 ╮(￣▽￣)╭
-* **支付**。当面交易，或者，支付宝 yangyangwithgnu@yeah.net，支付宝二维码 
+* **支付**。当面交易，或者，支付宝 yangyangwithgnu@yeah.net，支付宝二维码（左），微信二维码（右）
 <div align="center">
-<img src="https://raw.githubusercontent.com/yangyangwithgnu/yangyangwithgnu.github.io/master/pics/donate_qr.png" alt=""/><br>
+<img src="https://raw.githubusercontent.com/yangyangwithgnu/yangyangwithgnu.github.io/master/pics/alipay_donate_qr.png" alt=""/>
+<img src="https://raw.githubusercontent.com/yangyangwithgnu/yangyangwithgnu.github.io/master/pics/wechat_donate_qr.png" alt=""/><br>
 </div>
 
 
