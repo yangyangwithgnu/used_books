@@ -330,7 +330,7 @@ yangyangwithgnu@yeah.net
 </div></br>
 
 <div align="center">
-《加密与解密实战攻略》</br>
+（已售）《加密与解密实战攻略》</br>
 <img src="" alt=""/>
 <img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/reverse_engine/IMG_0906.JPG" alt=""/>
 <img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/reverse_engine/IMG_0907.JPG" alt=""/>
@@ -644,7 +644,7 @@ yangyangwithgnu@yeah.net
 </div></br>
 
 <div align="center">
-《网站开发新动力 HTML javascript ASP》</br>
+（已售）《网站开发新动力 HTML javascript ASP》</br>
 <img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/web/IMG_1040.JPG" alt=""/>
 <img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/web/IMG_1041.JPG" alt=""/>
 </div></br>
@@ -656,13 +656,13 @@ yangyangwithgnu@yeah.net
 </div></br>
 
 <div align="center">
-《javascript 网页编程案例教程》</br>
+（已售）《javascript 网页编程案例教程》</br>
 <img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/web/IMG_1048.JPG" alt=""/>
 <img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/web/IMG_1049.JPG" alt=""/>
 </div></br>
 
 <div align="center">
-《javascript 创建动态网页的高级脚本语言》</br>
+（已售）《javascript 创建动态网页的高级脚本语言》</br>
 <img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/web/IMG_1050.JPG" alt=""/>
 <img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/web/IMG_1051.JPG" alt=""/>
 </div></br>
