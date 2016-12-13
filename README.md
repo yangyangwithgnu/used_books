@@ -146,7 +146,7 @@ yangyangwithgnu@yeah.net
 </div></br>
 
 <div align="center">
-《C 语言接口与实现：创建可重用软件的技术》</br>
+（已售）《C 语言接口与实现：创建可重用软件的技术》</br>
 <img src="" alt=""/>
 <img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/c_n_cpp/IMG_0868.JPG" alt=""/>
 <img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/c_n_cpp/IMG_0869.JPG" alt=""/>
@@ -195,7 +195,7 @@ yangyangwithgnu@yeah.net
 </div></br>
 
 <div align="center">
-《计算机图形学原理及实践 C 语言描述》</br>
+（已售）《计算机图形学原理及实践 C 语言描述》</br>
 <img src="" alt=""/>
 <img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/c_n_cpp/IMG_0924.JPG" alt=""/>
 <img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/c_n_cpp/IMG_0925.JPG" alt=""/>
@@ -673,7 +673,7 @@ yangyangwithgnu@yeah.net
 <h4 name="8">8 其他</h4>
 
 <div align="center">
-《大教堂与集市》</br>
+（已售）《大教堂与集市》</br>
 <img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/etc/515987804.jpg" alt=""/>
 <img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/etc/1056977051.jpg" alt=""/>
 </div></br>
