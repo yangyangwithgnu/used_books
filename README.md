@@ -91,14 +91,14 @@ yangyangwithgnu@yeah.net
 <h4 name="1">1 C/C++</h4>
 
 <div align="center">
-《C++ 程序设计语言（特别版）》</br>
+（已售）《C++ 程序设计语言（特别版）》</br>
 <img src="" alt=""/>
 <img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/c_n_cpp/1131344811.jpg" alt=""/>
 <img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/c_n_cpp/400473681.jpg" alt=""/>
 </div></br>
 
 <div align="center">
-《C++ 程序设计语言（特别版）题解》</br>
+（已售）《C++ 程序设计语言（特别版）题解》</br>
 <img src="" alt=""/>
 <img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/c_n_cpp/768609499.jpg" alt=""/>
 <img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/c_n_cpp/1046662421.jpg" alt=""/>
@@ -126,7 +126,7 @@ yangyangwithgnu@yeah.net
 </div></br>
 
 <div align="center">
-《c++ 面向对象高效编程（第二版）》</br>
+（已售）《c++ 面向对象高效编程（第二版）》</br>
 <img src="" alt=""/>
 <img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/c_n_cpp/883218854.jpg" alt=""/>
 <img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/c_n_cpp/1360652407.jpg" alt=""/>
@@ -139,7 +139,7 @@ yangyangwithgnu@yeah.net
 </div></br>
 
 <div align="center">
-《C++ 编程基础 —— 标准库编程》</br>
+（已售）《C++ 编程基础 —— 标准库编程》</br>
 <img src="" alt=""/>
 <img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/c_n_cpp/IMG_0866.JPG" alt=""/>
 <img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/c_n_cpp/IMG_0867.JPG" alt=""/>
@@ -202,7 +202,7 @@ yangyangwithgnu@yeah.net
 </div></br>
 
 <div align="center">
-《C 语言软件开发教程》</br>
+（已售）《C 语言软件开发教程》</br>
 <img src="" alt=""/>
 <img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/c_n_cpp/IMG_0926.JPG" alt=""/>
 <img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/c_n_cpp/IMG_0927.JPG" alt=""/>
@@ -727,7 +727,7 @@ yangyangwithgnu@yeah.net
 </div></br>
 
 <div align="center">
-《计算机图形学的算法基础（第二版）》</br>
+（已售）《计算机图形学的算法基础（第二版）》</br>
 <img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/etc/IMG_0918.JPG" alt=""/>
 <img src="https://github.com/yangyangwithgnu/used_books/blob/master/pics/etc/IMG_0919.JPG" alt=""/>
 </div></br>
